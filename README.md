@@ -1,5 +1,8 @@
 # 💫 About Me:
-## ➡️ Veljko Jelenković ⬅️<br><br>Frontend developer 💻 | Software engineering student 👨‍🎓
+
+### ➡️ Veljko Jelenković ⬅️<br>
+
+<br>Frontend developer 💻 | Software engineering student 👨‍🎓
 
 
 ## 🌐 Socials:
